@@ -1,6 +1,12 @@
 # 💫 About Me:
 Full-stack developer with 4.2 years of experience building scalable web applications using Ruby on Rails, React  and Elasticsearch. Passionate about clean architecture, performance optimization, and creating seamless user experiences. Always exploring better ways to solve complex engineering problems and build reliable systems.
 
+💻 Tech Stack:<br>
+Ruby on Rails • React • REST • MySQL • Elasticsearch • Redis
+
+📚 Currently exploring:<br>
+System Design • Distributed Systems • AI Integrations • Scalable Architectures
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/souhardya-mandal-864518202/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:souhardya1204@gmail.com) 
@@ -11,8 +17,5 @@ Full-stack developer with 4.2 years of experience building scalable web applicat
 ![](https://github-readme-stats.shion.dev/api?username=Souhardya1204&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=Souhardya1204&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Souhardya1204&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
----
-[![](https://komarev.com/ghpvc/?username=Souhardya1204&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
